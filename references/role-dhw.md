@@ -2,7 +2,7 @@
 
 **Company / title / dates:** DHW Consulting, Remote, 8/2023 - Present. Title: Human Resources, Client Delivery.
 
-**Scope line:** Select Client Engagements: 6 active client engagements | 50-1,500 employees per organization | Sectors: Technology (Clarus Technology - pet technology, May 2025-Mar 2026), Healthcare, Media, Professional Services. Clarus is one of the client engagements under DHW, not a separate role entry — DHW and Clarus are always combined as one role.
+**Scope line:** Select Client Engagements: multiple active client engagements | 50-1,500 employees per organization | Sectors: Technology (Clarus Technology - pet technology, May 2025-Mar 2026), Healthcare, Media, Professional Services. Clarus is one of the client engagements under DHW, not a separate role entry — DHW and Clarus are always combined as one role. (Changed by Melissa: no specific client count — "multiple" replaces "6.")
 
 **Story angle:** multi-client advisory and operating model design.
 
@@ -15,7 +15,7 @@
 - Sr. People Partner/HRBP or Director HRBP targets: "Retained by C-Suite as fractional senior People leader"
 Either version neutralizes the 2.5-year fractional-engagement flag — pick the one matching the target level, same as the Cprime and WPP titles. AI work at DHW is advisory only, never implementation, never a fabricated metric.
 
-**Locked role summary for HRBP/Director targets only (do not rewrite, this exact wording overrides the level-conditional phrase above):** "Retained by CEOs and PE sponsors as fractional senior People leader, consulting across six client groups navigating growth, restructuring, and transformation" (21 words). For CPO/CHRO or VP/Head targets, re-derive a fresh one-sentence summary from the verified accomplishments below, using the "Retained by CEOs and PE sponsors" phrasing.
+**Locked role summary for HRBP/Director targets only (do not rewrite, this exact wording overrides the level-conditional phrase above):** "Retained by CEOs and PE sponsors as fractional senior People leader, consulting across multiple client groups navigating growth, restructuring, and transformation" (21 words). Updated by Melissa: "six" replaced with "multiple," no specific client count. For CPO/CHRO or VP/Head targets, re-derive a fresh one-sentence summary from the verified accomplishments below, using the "Retained by CEOs and PE sponsors" phrasing.
 
 **Verified accomplishments — ground truth to draw from, rewrite phrasing per JD but do not add outcomes not listed here:**
 1. Incorporated workforce planning into quarterly business reviews with client CFOs, lifting forecast accuracy 18%; each hiring request weighed against the revenue plan.
